@@ -4,3 +4,5 @@ docker
 ansible
 devops 
 aws
+sql
+msbi
